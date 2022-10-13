@@ -18,7 +18,7 @@
  * Version:           1.0.0
  * Author:            Vala Bhavesh V
  * Author URI:        https://valabhavesh.wordpress.com/about/
- * License:           GPL-2.0+
+ * License:           GPL-3.0+
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       wpmh-clone-menu
  * Domain Path:       /languages

@@ -5,7 +5,7 @@ Plugin URI:        https://valabhavesh.wordpress.com<br>
 Version:           1.0.0<br>
 Author:            Vala Bhavesh V<br>
 Author URI:        https://valabhavesh.wordpress.com/about/<br>
-License:           GPL-2.0+<br>
+License:           GPL-3.0+<br>
 License URI:       http://www.gnu.org/licenses/gpl-3.0.html<br>
 Text Domain:       wpmh-clone-menu<br>
 Domain Path:       /languages<br>
